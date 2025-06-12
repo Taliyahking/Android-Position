@@ -75,7 +75,7 @@ Android-Position/
 ├── doc/pdf/ppt              # 项目文档,word and pdf and ppt
 └── README.md              # 项目说明
 ```
-
+这里面的code中有app文件夹，里面有release文件夹，是应用发布的内容，再次运行后可重新生成，所以我把里面的安装包删除了。
 
 ## 📧 联系方式
 
