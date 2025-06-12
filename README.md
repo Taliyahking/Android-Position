@@ -71,11 +71,9 @@ Android Position 是一个基于位置服务的Android应用程序，集成了�
 
 ```
 Android-Position/
-├── app/                    # 主应用模块
-├── docs/                   # 项目文档
-├── gradle/                 # Gradle配置
-├── README.md              # 项目说明
-└── .gitignore             # Git忽略文件
+├── code/                    # 代码存放处，可解压使用
+├── doc/pdf/ppt              # 项目文档,word and pdf and ppt
+└── README.md              # 项目说明
 ```
 
 
